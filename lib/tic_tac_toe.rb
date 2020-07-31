@@ -59,6 +59,10 @@ class TicTacToe
 
   puts "Please enter a number 1 - 9"
 
+  input_to_index
+
+  
+
  end
 
 end
