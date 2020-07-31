@@ -61,7 +61,7 @@ class TicTacToe
 
   input_to_index
 
-  
+
 
  end
 
