@@ -57,6 +57,8 @@ class TicTacToe
  def turn
   input = gets
 
+  puts "Please enter a number 1 - 9"
+
  end
 
 end
