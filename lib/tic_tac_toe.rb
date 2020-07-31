@@ -56,7 +56,7 @@ class TicTacToe
 
  def turn
   input = gets
-   
+
  end
 
 end
