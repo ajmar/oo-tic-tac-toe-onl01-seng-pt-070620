@@ -31,7 +31,7 @@ class TicTacToe
  end
 
  def move(x, o)
-   o.between 
+   o.between
  end
 
 
