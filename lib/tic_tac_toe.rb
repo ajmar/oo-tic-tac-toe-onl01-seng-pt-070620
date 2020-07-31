@@ -30,7 +30,7 @@ class TicTacToe
 
  end
 
- 
 
- 
+
+
 end
