@@ -30,8 +30,10 @@ class TicTacToe
 
  end
 
- def move(x, o)
-   o.between
+ def move(index, token = "X")
+    @board[index] = token
+  end
+   
  end
 
 
