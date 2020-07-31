@@ -47,7 +47,10 @@ class TicTacToe
  end
 
  def current_player
-   turn_count.even?
+   if turn_count.even?
+     "X"
+   else
+     "O"
  end
 
 end
